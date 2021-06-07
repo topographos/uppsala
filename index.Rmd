@@ -152,6 +152,8 @@ class: inverse, middle, center
 
 @topographos2
 
-### Web:
+https://github.com/topographos/
 
-dispersal.rbind.io
+### Code:
+
+https://github.com/topographos/uppsala
